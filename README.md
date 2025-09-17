@@ -1,5 +1,3 @@
-# 📊 Product-Sales-Dashboard
-
 # 📊 Product Sales Dashboard
 
 This repository showcases a Power BI dashboard designed to analyze product sales performance across regions and categories. It provides actionable insights for sales teams, managers, and business analysts.
